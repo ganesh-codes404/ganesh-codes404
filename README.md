@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I’m currently pursuing a degree in Information T
 
 💼 Technical Skills
 Languages: JavaScript, Python, C++, Java
-Frontend: HTML, CSS, JavaScript, React, [any other relevant tools]
-Backend: Node.js, Express, MongoDB, SQL
+Frontend: HTML, CSS, JavaScript, React, React Native
+Backend: Node.js, Express, MongoDB, SQL, Websocket
 Mobile Development: React Native
-Tools: Git, GitHub, VS Code, Tailwind CSS, Figma
+Tools: Git, GitHub, VS Code, Tailwind CSS
 Soft Skills: Problem-solving, teamwork, adaptability, and communication
 📌 Projects
 
