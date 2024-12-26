@@ -22,6 +22,8 @@ Backend: Node.js, Express, MongoDB, SQL, Websocket
 Mobile Development: React Native
 Tools: Git, GitHub, VS Code, Tailwind CSS
 Soft Skills: Problem-solving, teamwork, adaptability, and communication
+
+
 📌 Projects
 
 1. Spotify Clone (React Native)
