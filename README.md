@@ -2,7 +2,7 @@
 
 Aspiring Software Developer | IT Student at CBIT,Hyderabad | Seeking Internships
 
-Welcome to my GitHub profile! I’m currently pursuing a degree in Information Technology at CBIT College, where I’m honing my skills in software development, problem-solving, and full-stack development.
+Welcome to my GitHub profile! I’m currently pursuing my BE in Information Technology at CBIT College, where I’m honing my skills in software development, problem-solving, and full-stack development.
 
 🚀 About Me
 
