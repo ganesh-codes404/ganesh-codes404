@@ -44,7 +44,7 @@ Email: ganesh1126kurapati@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ganesh-kurapati-06352a294/
 
-GitHub: https://github.com/ganeshcodes404
+GitHub: https://github.com/ganesh-codes404
 
 
 <!---
