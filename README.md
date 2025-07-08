@@ -36,15 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username-here&theme=tokyonight" width="47%" />
-</p>
-
----
-
 ### Let's Connect
 
 -  [LeetCode](ganesh1126kurapati@gmail.com)
