@@ -11,7 +11,6 @@
 - 🧪 Currently working on: **ASCII-based Social Platform** and a **Pokémon Move Rater using ML**.
 - 🔭 Most recent project: **F1 Predictor App** – combines PyTorch models and live OpenF1 data.
 - 💬 Ask me about: `React Native`, `Python`, `ML`, `LLMs`, `WebSockets`, `PyTorch`, `Kafka`
-- ✍️ I document projects and systems rigorously (and sometimes obsessively).
 
 ---
 
