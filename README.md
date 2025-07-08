@@ -1,8 +1,7 @@
 <h1 align="center">Hello devs! I'm Ganesh Kurapati</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20%7C%20Fullstack%20Dev%20%7C%20ML%20Enthusiast;Always%20learning%20new%20things...&center=true&width=440&height=45">
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=ganesh-codes404&style=flat-square&color=brightgreen)
+
 
 ---
 
