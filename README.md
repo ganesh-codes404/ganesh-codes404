@@ -1,53 +1,58 @@
-👋 Hello! I'm Ganesh Kurapati
+<h1 align="center">Hello devs! I'm Ganesh Kurapati</h1>
 
-Aspiring Software Developer | IT Student at CBIT,Hyderabad | Seeking Internships
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20%7C%20Fullstack%20Dev%20%7C%20ML%20Enthusiast;Always%20learning%20new%20things...&center=true&width=440&height=45">
+</p>
 
-Welcome to my GitHub profile! I’m currently pursuing my BE in Information Technology at CBIT College, where I’m honing my skills in software development, problem-solving, and full-stack development.
+---
 
-🚀 About Me
+### 👨‍💻 About Me
 
-🎓 Education: Undergraduate IT student at CBIT 
+- 🧠 I love building intelligent systems — from **AI-powered apps** to **smart ML pipelines**.
+- 🧪 Currently working on: **ASCII-based Social Platform** and a **Pokémon Move Rater using ML**.
+- 🔭 Most recent project: **F1 Predictor App** – combines PyTorch models and live OpenF1 data.
+- 💬 Ask me about: `React Native`, `Python`, `ML`, `LLMs`, `WebSockets`, `PyTorch`, `Kafka`
+- ✍️ I document projects and systems rigorously (and sometimes obsessively).
 
-🔍 Looking For: Internship opportunities to gain hands-on experience and build real-world applications
+---
 
-🌱 Currently Learning: Deepening my knowledge in React Native,Node.js,Machine Learning etc.
+### 🛠️ Tech Stack
 
-💡 Projects: Working on personal projects and collaborative projects that allow me to explore software engineering and user-centered design.
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-💼 Technical Skills
-Languages: JavaScript, Python, C++, Java
-Frontend: HTML, CSS, JavaScript, React, React Native
-Backend: Node.js, Express, MongoDB, SQL, Websocket
-Mobile Development: React Native
-Tools: Git, GitHub, VS Code, Tailwind CSS
-Soft Skills: Problem-solving, teamwork, adaptability, and communication
+**Tools:**  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
-📌 Projects
+### 📈 GitHub Stats
 
-1. Spotify Clone (React Native)
-Description: A feature-rich music app clone built with React Native, incorporating authentication, music playback, and personalized recommendations.
-Technologies: React Native, Expo, Firebase
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username-here&theme=tokyonight" width="47%" />
+</p>
 
-2. Formula 1 App
-Description: A Formula 1 app featuring driver stats, race schedules, and live standings.
-Technologies: React Native, Expo, Tailwind CSS
+---
 
-3. College Web App
-Description: A web application designed to streamline college operations, including student management, course registrations, and real-time notifications.
-Technologies:  Node.js, Express, MongoDB, React.js
+### Let's Connect
 
-📫 Connect with Me
+-  [LeetCode](ganesh1126kurapati@gmail.com)
+-  [LinkedIn]( https://www.linkedin.com/in/ganesh-kurapati-06352a294/)
+-  Mail: **ganesh1126kurapati@gmail.com**
+-  DM me for collabs or internships!
 
-Email: ganesh1126kurapati@gmail.com
+---
 
-LinkedIn: https://www.linkedin.com/in/ganesh-kurapati-06352a294/
-
-GitHub: https://github.com/ganesh-codes404
-
-
-<!---
-ganesh-codes404/ganesh-codes404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
