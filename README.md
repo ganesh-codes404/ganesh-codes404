@@ -38,7 +38,7 @@
 
 ### Let's Connect
 
--  [LeetCode](ganesh1126kurapati@gmail.com)
+-  [LeetCode](https://leetcode.com/u/Ganeshcodes404/)
 -  [LinkedIn]( https://www.linkedin.com/in/ganesh-kurapati-06352a294/)
 -  Mail: **ganesh1126kurapati@gmail.com**
 -  DM me for collabs or internships!
